@@ -13,7 +13,7 @@ body{
     
 }
 
-.cabeçalho{
+.cabecalho{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -21,26 +21,26 @@ body{
     padding: 24px;
 }
 
-.imagem-cabeçalho{
+.imagem-cabecalho{
     border-radius: 100%;
     width: 100px;
     height: 100px;
 
 }
 
-.cabeçalho-menu{
+.cabecalho-menu{
     display: flex;
     gap: 25px;
 }
 
-.cabeçalho-menu-item{
+.cabecalho-menu-item{
     font-family: 'Sarala', sans-serif;
     color: #fff2e7;
     font-weight: 400;
     font-size: 18px;
 }
 
-.cabeçalho-menu-item:hover{
+.cabecalho-menu-item:hover{
     border-radius: 40%;
     background-color:#f6c9a2;
 }
